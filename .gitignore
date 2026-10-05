@@ -1,0 +1,17 @@
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*.local
+
+# Python & Virtual Environments
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# IDEs & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
